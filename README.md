@@ -1,0 +1,2 @@
+# predict-profits-for-a-food-truck
+we will implement linear regression with one variable to predict profits for a food truck. Suppose you are the CEO of a restaurant franchise and are considering different cities for opening a new outlet. The chain already has trucks in various cities and we have data for profits and populations from the cities.we would like to use this data to help us to select which city to expand to next.
